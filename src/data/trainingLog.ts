@@ -49,5 +49,14 @@ export const trainingLog: TrainingRecord[] = [
     thumbnail: "/training/224382617693.png",
     tags: ["경력직교육", "문제해결교육", "온보딩교육", "팀워크교육"],
     url: "https://editor870508.tistory.com/entry/%EA%B2%BD%EB%A0%A5%EC%A7%81-%EC%8B%A0%EA%B7%9C-%EC%9E%85%EC%82%AC%EC%9E%90-%EA%B5%90%EC%9C%A1-%EC%99%9C-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B3%BC%EC%A0%95%EC%9C%BC%EB%A1%9C-%ED%95%A0%EA%B9%8C-%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-5%EC%8B%9C%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%9B%84%EA%B8%B0"
+  },
+  {
+    id: "224320828163",
+    title: "기업교육 트렌드 2026, 1분기 강의 29회로 본 요청의 변화 (148.5시간 운영 기록)",
+    date: "2026-06-22",
+    summary: "2026년 1분기에 요청된 기업교육을 한 줄로 정리하면 '설명해 달라'가 아니라 '해보게 해달라'였다. 좋은강의연구소가 1월부터 3월까지 19개 기관에서 29회, 148.5시간을 운영하며 받은 의뢰를 주제별로 묶어보니 경영 시뮬레이션, 팀빌딩·협업, 생성형 AI 업무활용, 리더십, 멘토링 다섯 갈래로 모였다. 다섯 갈래는 서로 다른 주제처럼 보이지만 설계 요구는 같았다. 강의장에서 실제로 무언가를 해보고 나가게 해달라는 것이다.",
+    thumbnail: "/training/224320828163.png",
+    tags: ["기업교육트렌드", "기업교육", "신입사원교육", "생성형AI교육"],
+    url: "https://editor870508.tistory.com/entry/%EA%B8%B0%EC%97%85%EA%B5%90%EC%9C%A1-%ED%8A%B8%EB%A0%8C%EB%93%9C-2026-1%EB%B6%84%EA%B8%B0-%EA%B0%95%EC%9D%98-29%ED%9A%8C%EB%A1%9C-%EB%B3%B8-%EC%9A%94%EC%B2%AD%EC%9D%98-%EB%B3%80%ED%99%94-1485%EC%8B%9C%EA%B0%84-%EC%9A%B4%EC%98%81-%EA%B8%B0%EB%A1%9D"
   }
 ];
