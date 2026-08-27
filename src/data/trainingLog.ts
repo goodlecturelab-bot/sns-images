@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224392338854",
+    title: "제미나이 노트북 직장인 활용법 3가지 (구 노트북LM, 2026년 8월 기준)",
+    date: "2026-08-27",
+    summary: "",
+    thumbnail: "/training/224392338854.png",
+    tags: [],
+    url: "https://editor870508.tistory.com/entry/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%A7%81%EC%9E%A5%EC%9D%B8-%ED%99%9C%EC%9A%A9%EB%B2%95-3%EA%B0%80%EC%A7%80-%EA%B5%AC-%EB%85%B8%ED%8A%B8%EB%B6%81LM-2026%EB%85%84-8%EC%9B%94-%EA%B8%B0%EC%A4%80"
+  },
+  {
     id: "224390980020",
     title: "신입사원 입문과정 팀빌딩, 왜 강의보다 체험이 빠를까 (50여 명 8시간 운영 후기)",
     date: "2026-08-26",
