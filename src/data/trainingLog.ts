@@ -18,9 +18,9 @@ export const trainingLog: TrainingRecord[] = [
     id: "224392338854",
     title: "제미나이 노트북 직장인 활용법 3가지 (구 노트북LM, 2026년 8월 기준)",
     date: "2026-08-27",
-    summary: "",
+    summary: "제미나이 노트북(Gemini Notebook)은 구글이 2026년 7월 16일 기존 '노트북LM(NotebookLM)'의 명칭을 변경하며 새로 붙인 이름이다. 이름만 바뀌었을 뿐 기존에 만들어 둔 노트북과 업로드해 둔 자료는 그대로 유지된다. 직장인이 실무에서 체감 효과가 가장 큰 기능은 오디오 개요, 채팅 기반 자동 리서치, 보고서·슬라이드 자동 생성 세 가지다.",
     thumbnail: "/training/224392338854.png",
-    tags: [],
+    tags: ["제미나이노트북", "노트북LM", "AI활용법", "직장인AI"],
     url: "https://editor870508.tistory.com/entry/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%A7%81%EC%9E%A5%EC%9D%B8-%ED%99%9C%EC%9A%A9%EB%B2%95-3%EA%B0%80%EC%A7%80-%EA%B5%AC-%EB%85%B8%ED%8A%B8%EB%B6%81LM-2026%EB%85%84-8%EC%9B%94-%EA%B8%B0%EC%A4%80"
   },
   {
