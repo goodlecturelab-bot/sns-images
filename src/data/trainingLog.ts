@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224394310473",
+    title: "에이전틱 AI, 휴먼 인 더 루프, 피지컬 AI 뜻과 2026년 전망 총정리",
+    date: "2026-08-29",
+    summary: "2026년 들어 기업 현장과 콘퍼런스에서 반복적으로 언급되는 AI 키워드는 크게 세 가지로 압축된다. 에이전틱 AI(Agentic AI), 휴먼 인 더 루프(Human-in-the-Loop), 피지컬 AI(Physical AI)다. 세 개념은 각각 다른 맥락에서 등장했지만, 결국 \"AI를 어떻게 사람과 함께 잘 쓸 것인가\"라는 하나의 질문으로 수렴한다는 공통점이 있다. 각 키워드의 정의와 최신 통계, 국내외 적용 사례를 정리했다.",
+    thumbnail: "/training/224394310473.png",
+    tags: ["에이전틱AI", "휴먼인더루프", "피지컬AI", "AI트렌드"],
+    url: "https://editor870508.tistory.com/entry/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-AI-%ED%9C%B4%EB%A8%BC-%EC%9D%B8-%EB%8D%94-%EB%A3%A8%ED%94%84-%ED%94%BC%EC%A7%80%EC%BB%AC-AI-%EB%9C%BB%EA%B3%BC-2026%EB%85%84-%EC%A0%84%EB%A7%9D-%EC%B4%9D%EC%A0%95%EB%A6%AC"
+  },
+  {
     id: "224392338854",
     title: "제미나이 노트북 직장인 활용법 3가지 (구 노트북LM, 2026년 8월 기준)",
     date: "2026-08-27",
