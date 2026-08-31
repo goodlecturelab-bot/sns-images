@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224396120391",
+    title: "신입사원 리더십 교육, 왜 팔로워십부터 시작할까? (직급별 3단계 설계 1편)",
+    date: "2026-08-31",
+    summary: "리더십 교육 예산은 대부분 팀장급 이상에 쓰인다. 그런데 조직에서 인원이 가장 많고, 일하는 방식이 아직 굳지 않아 바뀔 여지가 가장 큰 층은 사원급이다. A기관에서 사원급과 중간직급자, 부서장을 각각 나눠 직급별 리더십 교육을 진행하며 다시 확인한 것이 있다. 사원급 과정의 출발점은 리더십이 아니라 팔로워십이어야 한다는 점이다.",
+    thumbnail: "/training/224396120391.png",
+    tags: ["신입사원교육", "팔로워십", "리더십교육", "직급별교육"],
+    url: "https://editor870508.tistory.com/entry/%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EA%B5%90%EC%9C%A1-%EC%99%9C-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%A0%EA%B9%8C-%EC%A7%81%EA%B8%89%EB%B3%84-3%EB%8B%A8%EA%B3%84-%EC%84%A4%EA%B3%84-1%ED%8E%B8"
+  },
+  {
     id: "224394310473",
     title: "에이전틱 AI, 휴먼 인 더 루프, 피지컬 AI 뜻과 2026년 전망 총정리",
     date: "2026-08-29",
