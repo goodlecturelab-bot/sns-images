@@ -19,7 +19,7 @@ export const trainingLog: TrainingRecord[] = [
     title: "클로드코드 한글파일(HWP) 작업법, MCP 서버 설치부터 공공기관 HWPX 전환까지",
     date: "2026-09-02",
     summary: "클로드코드는 한글파일(HWP)을 기본 기능만으로는 열지 못한다. 편집은커녕 읽기조차 되지 않는다. 그런데 별도의 MCP 서버 하나만 연결하면 본문 읽기, 표 추출, 찾아바꾸기, 템플릿 자동 작성까지 가능해진다. 설치는 명령어 한 줄이면 끝난다. 공공기관 실무자에게 이 소식이 특히 반가운 이유와, 실제로 무엇을 어떻게 연결하면 되는지를 정리한다.",
-    thumbnail: "",
+    thumbnail: "/training/224397814814.png",
     tags: ["클로드코드", "한글파일", "HWP", "HWPX"],
     url: "https://editor870508.tistory.com/entry/%ED%81%B4%EB%A1%9C%EB%93%9C%EC%BD%94%EB%93%9C-%ED%95%9C%EA%B8%80%ED%8C%8C%EC%9D%BCHWP-%EC%9E%91%EC%97%85%EB%B2%95-MCP-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80-HWPX-%EC%A0%84%ED%99%98%EA%B9%8C%EC%A7%80"
   },
