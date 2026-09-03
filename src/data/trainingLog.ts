@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224398996120",
+    title: "관리자 동기부여 교육, 왜 제도보다 말이 먼저일까? (직급별 3단계 설계 3편)",
+    date: "2026-09-03",
+    summary: "관리자 교육 문의는 대체로 같은 문장으로 시작한다. 요즘 직원들을 어떻게 동기부여해야 하느냐는 것이다. 그런데 이 질문을 그대로 받아 기법부터 가르치면 교육이 잘 굴러가지 않는다. A기관 직급별 리더십 과정의 마지막 단계인 관리직 과정은 질문의 방향을 한 번 되돌리는 것에서 시작했다. 남을 움직이는 방법을 배우기 전에, 지금 나를 움직이는 것이 무엇인지부터 확인하는 순서다.",
+    thumbnail: "/training/224398996120.png",
+    tags: ["관리자교육", "동기부여", "임파워먼트", "변혁적리더십"],
+    url: "https://editor870508.tistory.com/entry/%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC-%EA%B5%90%EC%9C%A1-%EC%99%9C-%EC%A0%9C%EB%8F%84%EB%B3%B4%EB%8B%A4-%EB%A7%90%EC%9D%B4-%EB%A8%BC%EC%A0%80%EC%9D%BC%EA%B9%8C-%EC%A7%81%EA%B8%89%EB%B3%84-3%EB%8B%A8%EA%B3%84-%EC%84%A4%EA%B3%84-3%ED%8E%B8"
+  },
+  {
     id: "224397814814",
     title: "클로드코드 한글파일(HWP) 작업법, MCP 서버 설치부터 공공기관 HWPX 전환까지",
     date: "2026-09-02",
