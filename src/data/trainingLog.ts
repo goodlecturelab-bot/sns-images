@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224402154732",
+    title: "클로드 코드 크롬 확장 프로그램 추천 6가지, 업무별 조합까지 (2026년 기준)",
+    date: "2026-09-05",
+    summary: "클로드 코드는 로컬 도구다. 내 컴퓨터의 폴더를 열고 파일을 읽고 고치는 일에는 강하지만, 작업에 필요한 근거 자료는 대부분 브라우저 안에 흩어져 있다. 이 공백을 메우는 것이 크롬 확장 프로그램이다. 자료를 모으고 정리해 클로드 코드에 넘길 상태로 만들어 두면 같은 도구를 써도 결과가 달라진다. 2026년 기준으로 실제 설치해 쓸 만한 확장 6가지를 용도별로 정리한다.",
+    thumbnail: "/training/224402154732.png",
+    tags: ["클로드코드", "크롬확장프로그램", "ClaudeinChrome", "업무자동화"],
+    url: "https://editor870508.tistory.com/entry/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%B6%94%EC%B2%9C-6%EA%B0%80%EC%A7%80-%EC%97%85%EB%AC%B4%EB%B3%84-%EC%A1%B0%ED%95%A9%EA%B9%8C%EC%A7%80-2026%EB%85%84-%EA%B8%B0%EC%A4%80"
+  },
+  {
     id: "224398996120",
     title: "관리자 동기부여 교육, 왜 제도보다 말이 먼저일까? (직급별 3단계 설계 3편)",
     date: "2026-09-03",
