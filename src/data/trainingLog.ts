@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224412288418",
+    title: "챗GPT 아스트라(GPT-6) 요금제와 사용한도 정리, 9월 15일 최신 변경사항까지",
+    date: "2026-09-15",
+    summary: "아스트라는 별도 서비스가 아니다. 오픈AI가 2026년 9월 3일 공개한 챗GPT의 최상위 모델 GPT-6 아스트라(GPT-6 Astra)의 이름이고, 최근 화제가 된 챗GPT 업그레이드와 같은 사건이다. 출시 직후 정리된 내용은 이미 많지만 그 뒤 열흘 동안 상황이 꽤 움직였다. 추가 사용한도 리셋, Pro 신규 가입 중단, 오픈AI의 공식 사후분석까지 나왔다. 이 글은 9월 15일 기준으로 요금제, 사용한도, 사용법과 함께 출시 이후 바뀐 것을 한 번에 정리한다.",
+    thumbnail: "/training/224412288418.png",
+    tags: ["아스트라", "GPT-6", "챗GPT요금제", "챗GPT사용한도"],
+    url: "https://editor870508.tistory.com/entry/%EC%B1%97GPT-%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BCGPT-6-%EC%9A%94%EA%B8%88%EC%A0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8F%84-%EC%A0%95%EB%A6%AC-9%EC%9B%94-15%EC%9D%BC-%EC%B5%9C%EC%8B%A0-%EB%B3%80%EA%B2%BD%EC%82%AC%ED%95%AD%EA%B9%8C%EC%A7%80"
+  },
+  {
     id: "224402154732",
     title: "클로드 코드 크롬 확장 프로그램 추천 6가지, 업무별 조합까지 (2026년 기준)",
     date: "2026-09-05",
