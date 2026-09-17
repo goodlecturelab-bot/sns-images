@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224414839796",
+    title: "윈도우 아이폰 연동 방법, 문자·전화까지 되게 하는 권한 설정 3가지 (Phone Link 실사용 후기)",
+    date: "2026-09-17",
+    summary: "윈도우 PC와 아이폰을 연동하면 문자 확인과 답장, 전화 수신·발신, 알림 확인을 노트북에서 바로 처리할 수 있다. 다만 페어링만 끝내면 되는 것이 아니라, 아이폰 블루투스 설정 안에 있는 권한 3가지를 전부 켜야 문자와 전화가 정상 동작한다. 이 글은 Windows 11의 Phone Link(휴대폰과 연결) 앱으로 아이폰을 실제로 연동해 이틀간 써 본 결과를 조건 확인, 절차, 권한 설정, 제한사항 순으로 정리한 것이다.",
+    thumbnail: "/training/224414839796.png",
+    tags: ["윈도우아이폰연동", "PhoneLink", "휴대폰과연결", "아이폰문자PC"],
+    url: "https://editor870508.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%97%B0%EB%8F%99-%EB%B0%A9%EB%B2%95-%EB%AC%B8%EC%9E%90%C2%B7%EC%A0%84%ED%99%94%EA%B9%8C%EC%A7%80-%EB%90%98%EA%B2%8C-%ED%95%98%EB%8A%94-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-3%EA%B0%80%EC%A7%80-Phone-Link-%EC%8B%A4%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0"
+  },
+  {
     id: "224412288418",
     title: "챗GPT 아스트라(GPT-6) 요금제와 사용한도 정리, 9월 15일 최신 변경사항까지",
     date: "2026-09-15",
