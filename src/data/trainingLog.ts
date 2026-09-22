@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224420043981",
+    title: "에이전틱 AI란 무엇인가? 챗봇·RPA와의 차이, 시장 규모, 도입 도구 총정리 (2026년 기준)",
+    date: "2026-09-22",
+    summary: "에이전틱 AI(Agentic AI)는 목표만 주어지면 스스로 계획을 세우고 여러 단계를 거쳐 실제 작업을 끝까지 수행하는 인공지능이다. 질문 하나에 답 하나로 끝나는 챗봇, 사람 옆에서 돕기만 하는 코파일럿, 정해진 규칙 밖에서는 멈추는 RPA와 구분되는 지점이 바로 이 자율성이다. 이 글은 에이전틱 AI의 정의, 기존 방식과의 차이, 2026년 시장 규모와 기업 도입 현황, 그리고 개발자·비개발자·기업이 각각 쓸 수 있는 도구를 한 번에 정리한 것이다.",
+    thumbnail: "/training/224420043981.png",
+    tags: ["에이전틱AI", "AI에이전트", "AgenticAI", "RPA차이"],
+    url: "https://editor870508.tistory.com/entry/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-AI%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%B1%97%EB%B4%87%C2%B7RPA%EC%99%80%EC%9D%98-%EC%B0%A8%EC%9D%B4-%EC%8B%9C%EC%9E%A5-%EA%B7%9C%EB%AA%A8-%EB%8F%84%EC%9E%85-%EB%8F%84%EA%B5%AC-%EC%B4%9D%EC%A0%95%EB%A6%AC-2026%EB%85%84-%EA%B8%B0%EC%A4%80"
+  },
+  {
     id: "224414839796",
     title: "윈도우 아이폰 연동 방법, 문자·전화까지 되게 하는 권한 설정 3가지 (Phone Link 실사용 후기)",
     date: "2026-09-17",
