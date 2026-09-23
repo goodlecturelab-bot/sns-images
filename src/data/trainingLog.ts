@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224421403107",
+    title: "크롬 업데이트 새 기능 정리: PDF 서명, 월렛 자동완성, 분할 뷰, 세로 탭 사용법 (2026년)",
+    date: "2026-09-24",
+    summary: "최근 몇 달 사이 크롬(Chrome)에 실무에서 바로 쓸 수 있는 기능이 연달아 추가됐다. 크롬 145 버전의 PDF 서명·주석과 분할 뷰, 구글 월렛 연동 자동완성, 크롬 146 버전대의 세로 탭이 대표적이다. 이 글은 네 가지 기능이 각각 무엇을 해결하는지, 어디서 켜고 어떻게 쓰는지를 순서대로 정리한 것이다. 마지막에는 함께 알아두면 좋은 숨은 기능 다섯 가지를 덧붙였다.",
+    thumbnail: "/training/224421403107.png",
+    tags: ["크롬업데이트", "크롬새기능", "크롬분할뷰", "크롬세로탭"],
+    url: "https://editor870508.tistory.com/entry/%ED%81%AC%EB%A1%AC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%83%88-%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC-PDF-%EC%84%9C%EB%AA%85-%EC%9B%94%EB%A0%9B-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EB%B6%84%ED%95%A0-%EB%B7%B0-%EC%84%B8%EB%A1%9C-%ED%83%AD-%EC%82%AC%EC%9A%A9%EB%B2%95-2026%EB%85%84"
+  },
+  {
     id: "224420043981",
     title: "에이전틱 AI란 무엇인가? 챗봇·RPA와의 차이, 시장 규모, 도입 도구 총정리 (2026년 기준)",
     date: "2026-09-22",
