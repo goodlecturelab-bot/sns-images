@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224422618961",
+    title: "제미나이 데스크톱 앱, 설치할까 웹으로 충분할까? 상황별 판단 기준과 설치 전 체크리스트",
+    date: "2026-09-25",
+    summary: "결론부터 말하면, 하루에 제미나이를 다섯 번 이상 부르는 사람이라면 데스크톱 앱이 낫고, 가끔 긴 대화를 하는 정도라면 웹 버전으로 충분하다. 두 버전의 AI 기능(이미지·동영상 생성, Gmail·Drive·Docs·Calendar 연동)은 같다. 달라지는 것은 '부르는 속도', '지금 보고 있는 화면을 읽는 능력', '내 PC 파일에 닿는 범위' 세 가지뿐이다. 이 글은 이 세 가지를 기준으로 설치 여부를 판단하는 방법, 설치 전에 확인해야 할 호환성 조건, 설치 직후 바꿔야 할 설정을 순서대로 정리한다.",
+    thumbnail: "/training/224422618961.png",
+    tags: ["제미나이데스크톱", "제미나이앱", "Gemini데스크톱", "제미나이윈도우"],
+    url: "https://editor870508.tistory.com/entry/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EC%84%A4%EC%B9%98%ED%95%A0%EA%B9%8C-%EC%9B%B9%EC%9C%BC%EB%A1%9C-%EC%B6%A9%EB%B6%84%ED%95%A0%EA%B9%8C-%EC%83%81%ED%99%A9%EB%B3%84-%ED%8C%90%EB%8B%A8-%EA%B8%B0%EC%A4%80%EA%B3%BC-%EC%84%A4%EC%B9%98-%EC%A0%84-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8"
+  },
+  {
     id: "224421403107",
     title: "크롬 업데이트 새 기능 정리: PDF 서명, 월렛 자동완성, 분할 뷰, 세로 탭 사용법 (2026년)",
     date: "2026-09-24",
