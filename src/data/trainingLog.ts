@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224432889283",
+    title: "레플릿(Replit) 사용법, 코딩 없이 앱 만드는 6단계와 요금제·비용 아끼는 법 (2026년 9월 기준)",
+    date: "2026-10-06",
+    summary: "레플릿(Replit)은 만들고 싶은 앱을 말로 설명하면 AI 에이전트가 화면·데이터베이스·호스팅·배포까지 한곳에서 처리해 주는 플랫폼이다. 코딩을 몰라도 사내 도구나 시제품(MVP)을 하루 안에 띄울 수 있다. 다만 사용량만큼 과금되는 구조라, 시작하는 순서와 모드 선택을 모르면 비용이 예상보다 크게 나온다.",
+    thumbnail: "/training/224432889283.png",
+    tags: ["레플릿", "Replit", "레플릿사용법", "레플릿요금제"],
+    url: "https://editor870508.tistory.com/entry/%EB%A0%88%ED%94%8C%EB%A6%BFReplit-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%BD%94%EB%94%A9-%EC%97%86%EC%9D%B4-%EC%95%B1-%EB%A7%8C%EB%93%9C%EB%8A%94-6%EB%8B%A8%EA%B3%84%EC%99%80-%EC%9A%94%EA%B8%88%EC%A0%9C%C2%B7%EB%B9%84%EC%9A%A9-%EC%95%84%EB%81%BC%EB%8A%94-%EB%B2%95-2026%EB%85%84-9%EC%9B%94-%EA%B8%B0%EC%A4%80"
+  },
+  {
     id: "224422618961",
     title: "제미나이 데스크톱 앱, 설치할까 웹으로 충분할까? 상황별 판단 기준과 설치 전 체크리스트",
     date: "2026-09-25",
