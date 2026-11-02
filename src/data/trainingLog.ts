@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224460920419",
+    title: "학습 피라미드는 근거가 있을까? 참여식 강의가 효과적인 이유와 내일 바로 쓰는 활동 3가지",
+    date: "2026-11-02",
+    summary: "강사 교육에서 자주 보이는 '학습 피라미드'의 퍼센트 수치(들은 것 5%, 서로 가르친 것 90% 기억)는 원본 연구가 확인되지 않는다. 그런데 학습자가 직접 떠올리고, 말하고, 가르칠 때 더 잘 배운다는 방향 자체는 여러 연구로 뒷받침된다. 즉 숫자는 버리고 방향은 살리면 된다.",
+    thumbnail: "/training/224460920419.png",
+    tags: ["학습피라미드", "참여식강의", "강의스킬", "아이스브레이킹"],
+    url: "https://editor870508.tistory.com/entry/%ED%95%99%EC%8A%B5-%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C%EB%8A%94-%EA%B7%BC%EA%B1%B0%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C-%EC%B0%B8%EC%97%AC%EC%8B%9D-%EA%B0%95%EC%9D%98%EA%B0%80-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%82%B4%EC%9D%BC-%EB%B0%94%EB%A1%9C-%EC%93%B0%EB%8A%94-%ED%99%9C%EB%8F%99-3%EA%B0%80%EC%A7%80"
+  },
+  {
     id: "224460210124",
     title: "피클(Pickle) AI 에이전트 활용법, 기업교육 강사가 출강·강의 준비·일정 조율에 쓰는 법",
     date: "2026-10-31",
