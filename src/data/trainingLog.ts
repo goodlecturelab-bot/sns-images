@@ -15,6 +15,15 @@ export type TrainingRecord = {
 
 export const trainingLog: TrainingRecord[] = [
   {
+    id: "224469035419",
+    title: "피클(Pickle) 활용법 — 기업교육 강사가 기차 예약과 '집에서 나설 시간'을 맡기는 법",
+    date: "2026-11-08",
+    summary: "기업교육 강사가 강의에 늦는 이유는 강의를 몰라서가 아니다. 강의 시작 시각은 외우고 있는데, 집에서 나설 시간은 매번 그 자리에서 계산하기 때문이다. 역까지 몇 분, 역 안에서 몇 분, 차가 막히면 몇 분. 출강 전날 밤마다 머릿속으로 돌리던 이 계산을 AI 에이전트 피클(Pickle)에게 넘겼다.",
+    thumbnail: "/training/224469035419.png",
+    tags: ["피클", "피클활용법", "Pickle", "AI에이전트"],
+    url: "https://editor870508.tistory.com/entry/%ED%94%BC%ED%81%B4Pickle-%ED%99%9C%EC%9A%A9%EB%B2%95-%E2%80%94-%EA%B8%B0%EC%97%85%EA%B5%90%EC%9C%A1-%EA%B0%95%EC%82%AC%EA%B0%80-%EA%B8%B0%EC%B0%A8-%EC%98%88%EC%95%BD%EA%B3%BC-%EC%A7%91%EC%97%90%EC%84%9C-%EB%82%98%EC%84%A4-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%A7%A1%EA%B8%B0%EB%8A%94-%EB%B2%95"
+  },
+  {
     id: "224460920419",
     title: "학습 피라미드는 근거가 있을까? 참여식 강의가 효과적인 이유와 내일 바로 쓰는 활동 3가지",
     date: "2026-11-02",
